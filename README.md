@@ -1,4 +1,3 @@
-# MiniOS
 # Mini OS Simulation in C
 
 This project is a terminal-based simulation of a mini operating system developed in C. It provides various functionalities including media playback, file and directory management, utilities, and system information, all controlled through a user-friendly command-line interface.
